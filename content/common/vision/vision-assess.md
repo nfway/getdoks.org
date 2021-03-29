@@ -1,15 +1,15 @@
 ---
-title: "自我评估：您的愿景与使命是什么"
-description: "公益基金会管理资料库"
-lead: "公益基金会管理资料库"
-date: 2020-10-13T15:21:01+02:00
-lastmod: 2020-10-13T15:21:01+02:00
+title: "Quick Start"
+description: "One page summary of how to start a new Doks project."
+lead: "One page summary of how to start a new Doks project."
+date: 2020-11-16T13:59:39+01:00
+lastmod: 2020-11-16T13:59:39+01:00
 draft: false
 images: []
-menu: 
+menu:
   common:
     parent: "vision"
-weight: 20
+weight: 110
 toc: true
 ---
 

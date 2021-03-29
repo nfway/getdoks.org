@@ -12,25 +12,12 @@
   padding-left: 0.5rem;
 }
 
-.showcase-meta {
-  margin-top: 2rem;
-}
-
-.showcase-meta a {
-  color: $body-color;
-}
-
 h1:hover a,
 h2:hover a,
 h3:hover a,
 h4:hover a {
   visibility: visible;
   text-decoration: none;
-}
-
-.showcase-meta a:hover,
-.showcase-meta a:focus {
-  color: $primary;
 }
 
 .card-list {
@@ -49,5 +36,10 @@ h4:hover a {
 
 p.meta {
   margin-top: 0.5rem;
+  font-size: $font-size-base;
+}
+
+.breadcrumb {
+  margin-top: 2.25rem;
   font-size: $font-size-base;
 }

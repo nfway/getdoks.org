@@ -1,8 +1,9 @@
 ---
-title: "Vision"
-description: ""
-date: 2021-03-20T18:58:44+08:00
-lastmod: 2021-03-20T18:58:44+08:00
-draft: true
+title : "Vision"
+description: "Prologue Doks."
+lead: ""
+date: 2020-10-06T08:48:45+00:00
+lastmod: 2020-10-06T08:48:45+00:00
+draft: false
 images: []
 ---

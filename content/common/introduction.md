@@ -1,17 +1,22 @@
 ---
-title: "公益基金会管理资料库"
-description: "公益基金会管理资料库"
-lead: "公益基金会管理资料库"
-date: 2020-10-13T15:21:01+02:00
-lastmod: 2020-10-13T15:21:01+02:00
+title: "使用说明"
+description: "
+本资料库基于Peter F. Drucker 的《非营利组织管理》(Managing the Nonprofit Organization)一书的框架构建而成。"
+lead: "本资料库基于Peter F. Drucker 的《非营利组织管理》(Managing the Nonprofit Organization)一书的框架构建而成。"
+date: 2020-10-06T08:48:57+00:00
+lastmod: 2020-10-06T08:48:57+00:00
 draft: false
 images: []
-menu: 
+menu:
   common:
     parent: "common"
 weight: 1
 toc: true
 ---
+
+
+
+
 本资料库基于Peter F. Drucker 的《非营利组织管理》(Managing the Nonprofit Organization)一书的框架构建而成。
 
 主要解决非营利基金会创立之后的管理问题，以生命周期为主要维度进行分类，涵括：
@@ -33,6 +38,7 @@ toc: true
 **纵向**上沿用《非营利组织管理》一书的结构，将非营利基金会的管理分为五个部分：使命、战略、绩效管理、人力资源与关系网络和自我发展；
 
 **横向**上主要是一些主题：如基金会营销、基金会发展、DM&E、机构发展、公益创投和基金会法案等。
+
 
 
 ## 纵向维度

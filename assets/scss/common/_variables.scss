@@ -111,6 +111,8 @@ $font-size-lg:                $font-size-base * 1.25;
 $font-size-md:                $font-size-base * 1.125;
 $font-size-sm:                $font-size-base * 0.875;
 
+$line-height-base:            1.5;
+
 $headings-font-family:        null;
 $headings-font-weight:        700;
 
@@ -127,7 +129,7 @@ $spacer: 1rem;
 // Navbar
 
 $navbar-padding-y:                  $spacer / 2;
-$navbar-padding-x:                  0;
+$navbar-padding-x:                  null;
 
 $navbar-nav-link-padding-x:         0.5rem;
 
@@ -150,31 +152,6 @@ $alert-border-radius:               0;
 $alert-link-font-weight:            $headings-font-weight;
 $alert-border-width:                0;
 
-$alert-bg-level:                    0;
-$alert-border-level:                0;
-$alert-color-level:                 0;
-
-// docsearch
-$dropdown-config: (
-  main-color: $purple,
-  layout-type: normal,
-  layout-width: normal,
-  layout-alignment: align,
-  background-color: $white,
-  border-radius: 4,
-  border-width: 1,
-  border-color: $gray-200,
-  box-shadow: none,
-  branding-position: bottom,
-  spacing: normal,
-  include-desc: yes,
-  background-category-header: $white,
-  font-size: normal,
-  header-color: $black,
-  title-color: $black,
-  subtitle-color: $black,
-  text-color: $black,
-  highlight-color: $purple,
-  highlight-opacity: 0.1,
-  highlight-type: underline
-);
+$alert-bg-scale:                    0;
+$alert-border-scale:                0;
+$alert-color-scale:                 0;

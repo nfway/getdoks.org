@@ -2,8 +2,6 @@
 .blog .content,
 .page .content,
 .error404 .content,
-.newsletter .content,
-.confirmation .content,
 .docs.list .content,
 .tutorial.list .content,
 .showcase.list .content {
@@ -191,7 +189,7 @@ body {
 }
 
 ::selection {
-  background: rgba(212, 53, 159, 0.2);
+  background: lighten($primary, 55%);
 }
 
 .bg-dots {
@@ -224,10 +222,4 @@ body {
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent;
   -moz-text-fill-color: transparent;
-}
-
-.card-bar {
-  border-top: 4px solid;
-  border-image-source: linear-gradient(90deg, $primary, #8ed6fb 50%, #d32e9d);
-  border-image-slice: 1;
 }

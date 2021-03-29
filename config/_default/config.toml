@@ -2,7 +2,7 @@ baseurl = "/"
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
-enableGitInfo = true
+enableGitInfo = false
 enableRobotsTXT = true
 languageCode = "en-US"
 paginate = 7
@@ -45,6 +45,12 @@ rel  = "sitemap"
   [markup.goldmark]
     [markup.goldmark.extensions]
       linkify = false
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
     [markup.goldmark.renderer]
       unsafe = true
   [markup.highlight]
@@ -77,5 +83,5 @@ rel  = "sitemap"
     source = "static"
     target = "static"
   [[module.mounts]]
-    source = "node_modules/docsearch.js"
-    target = "assets/js/vendor/docsearch.js"
+    source = "node_modules/flexsearch"
+    target = "assets/js/vendor/flexsearch"

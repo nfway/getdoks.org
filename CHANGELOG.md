@@ -2,115 +2,165 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [0.1.4](https://github.com/h-enk/getdoks.org/compare/v0.1.3...v0.1.4) (2021-01-12)
+### [0.1.6](https://github.com/h-enk/doks/compare/v0.1.5...v0.1.6) (2021-03-01)
 
 
 ### Features
 
-* add code of conduct link to footer menu ([edcc123](https://github.com/h-enk/getdoks.org/commit/edcc1235c62c30e17cfd74259d30d8d795ff3534))
-* add community link to main menu ([d9f3569](https://github.com/h-enk/getdoks.org/commit/d9f356980338158500290582515fd38fb3ce04a3))
-* add hugo extended as a dependency ([0a33bf0](https://github.com/h-enk/getdoks.org/commit/0a33bf01406a643888b6e9d69f15852374cb93d8))
-* update config for section rss support ([1201349](https://github.com/h-enk/getdoks.org/commit/120134960fc5230d4fb4bf8be1f01e437a8acf07))
-* update global alert ([73489f8](https://github.com/h-enk/getdoks.org/commit/73489f824c1f9f3cb7a2cb864c5516c1bac89341))
-* update global alert ([9133281](https://github.com/h-enk/getdoks.org/commit/91332814d199ae38945768f3bea72148c82bdee3))
-
-
-### Documentation
-
-* update code of conduct ([b5ae010](https://github.com/h-enk/getdoks.org/commit/b5ae0102e9b4c1b2f4f861d636095f412709e899))
-* update faq for docs discussions ([767b787](https://github.com/h-enk/getdoks.org/commit/767b787542e1e111244ad89e62f82872e055149d))
-
-
-### Dependencies
-
-* bump to latest versions ([79aab03](https://github.com/h-enk/getdoks.org/commit/79aab03b1af1767a229365bcecd624f5c3fc221f))
-* bump to latest versions ([9221abd](https://github.com/h-enk/getdoks.org/commit/9221abd843a9f63a35e9d7f564b62c648c294aeb))
-* bump to latest versions ([590ecaf](https://github.com/h-enk/getdoks.org/commit/590ecaff4c98444d697406ac60dde393c75068da))
-* bump versions to latest ([262cdd2](https://github.com/h-enk/getdoks.org/commit/262cdd2d1c775c8d1d2d4460735148963b9a21b0))
-* bump versions to latest ([d095567](https://github.com/h-enk/getdoks.org/commit/d0955670722db7c3f42635d4ebe6c883f54e1563))
-* bump versions to latest ([03da295](https://github.com/h-enk/getdoks.org/commit/03da295e767a8358fa5cf1b2f721a58669151d52))
-* bump versions to latest ([c78c2b4](https://github.com/h-enk/getdoks.org/commit/c78c2b4c7bc8a5a7b738e3a4a9360e977531734d))
-* bump versions to latest ([55bc322](https://github.com/h-enk/getdoks.org/commit/55bc322e51d5ea82fb6b0c162a8993adac1e57e6))
-* bump versions to latest ([91d23ee](https://github.com/h-enk/getdoks.org/commit/91d23ee288bbf5d4dec38d8f67bd545195c53d1a))
-* bump versions to latest ([dc712ce](https://github.com/h-enk/getdoks.org/commit/dc712cead2faead5443187b03ef8b5a6c195b0a5))
-
-### [0.1.3](https://github.com/h-enk/getdoks.org/compare/v0.1.2...v0.1.3) (2020-12-03)
-
-
-### Features
-
-* add editPage switch ([d43f9e8](https://github.com/h-enk/getdoks.org/commit/d43f9e8d4903dd0427b3635fbf5a47c0a33d4885))
-* add netlify-plugin-submit-sitemap ([bcb64de](https://github.com/h-enk/getdoks.org/commit/bcb64de0fadf66e8dd4be891aa6387f340890d4a))
+* add check commands ([85baab4](https://github.com/h-enk/doks/commit/85baab47ff06557051f373aa6afeb114fb40f50f))
+* match active class docs menu on identifier ([7384cfe](https://github.com/h-enk/doks/commit/7384cfe8f1652b8053f077c964633d4ad12cf281))
+* update package-lock.json ([8c73d74](https://github.com/h-enk/doks/commit/8c73d741fd789e829c35bf51cfc25c6d790b0dbb))
 
 
 ### Bug Fixes
 
-* change subdomain for plausible script ([ee8b746](https://github.com/h-enk/getdoks.org/commit/ee8b7466aef8b94282d2deec476abb60fe767cdf))
-* change subdomain for plausible script ([5460f5d](https://github.com/h-enk/getdoks.org/commit/5460f5d3f8c4d4539048098f91d553d04d9b6243))
-* host plausible.js on main domain ([118e8ac](https://github.com/h-enk/getdoks.org/commit/118e8ac27048d5e29cdc762d14fdd4e8840fcc82))
-* host plausible.js on stats subdomain ([f6ac1a7](https://github.com/h-enk/getdoks.org/commit/f6ac1a7e79fce7a8b5a1972b68bd2cdbce8951f4))
-
-
-### Dependencies
-
-* bump autoprefixer to latest ([46ced7d](https://github.com/h-enk/getdoks.org/commit/46ced7d68fe8b36f7543e8c37012e0327ba78ff5))
-* bump versions ([45db8ad](https://github.com/h-enk/getdoks.org/commit/45db8adf1cf9f737c002f2f781bae52bfba8393d))
-* bump versions to latest ([5639ffd](https://github.com/h-enk/getdoks.org/commit/5639ffdf0f5695792a975df204cc100a79e353fd))
-* bump versions to latest ([71e5849](https://github.com/h-enk/getdoks.org/commit/71e5849586b1c2300dabb182ecf5121c9aa83026))
-* bump versions to latest ([759799c](https://github.com/h-enk/getdoks.org/commit/759799c28d240d9058a57f50f5150b91c9176b12))
-* bump versions to latest ([ec3c5a4](https://github.com/h-enk/getdoks.org/commit/ec3c5a493128da8c109d8fd52157fb504d688c14))
-* bump versions to latest ([ceb2ccf](https://github.com/h-enk/getdoks.org/commit/ceb2ccf7af0e4d99463ff2a44a64522043eff2e4))
+* convert tabs to spaces ([6511531](https://github.com/h-enk/doks/commit/6511531c5e3f4ae1a9ad5e64972bd34c8e62cb0d))
+* remove extra space in else statement ([03637e5](https://github.com/h-enk/doks/commit/03637e547ef7afa1dcea853746634df3161656db))
+* update urls for deploy to github+ ([8c10161](https://github.com/h-enk/doks/commit/8c101613fa488518152675bb0916e74d444df1e2))
 
 
 ### Documentation
 
-* restructure content ([6ecda85](https://github.com/h-enk/getdoks.org/commit/6ecda85f1004365b07f68491267029ed8c5e80d4))
-* update ([eae34bd](https://github.com/h-enk/getdoks.org/commit/eae34bd20ab95969945c03b6f342a921e4c8d83f))
-* update content ([2b48422](https://github.com/h-enk/getdoks.org/commit/2b48422d5e3a2d7204d560a657079ca7c984455f))
-* update content ([a0be11c](https://github.com/h-enk/getdoks.org/commit/a0be11ce5d3b6b6f942485b75f72851bf669662c))
-* update content ([4512834](https://github.com/h-enk/getdoks.org/commit/451283496b52c7f16e5fa3bfb611d292d2a22f2e))
-* update extensions sections ([23bf702](https://github.com/h-enk/getdoks.org/commit/23bf702e274c918b59dc303dd2c71ff6e023a601))
-* update readme ([a197218](https://github.com/h-enk/getdoks.org/commit/a197218c995884a89176d7f8b373fa7cebe7a2ce))
-* update readme ([7c00934](https://github.com/h-enk/getdoks.org/commit/7c009342c44816b4ffe15bf32abf79d21f67bf2f))
-* update recipes ([328daa1](https://github.com/h-enk/getdoks.org/commit/328daa196cde0eb801998e64842bd3645c1cd868))
-* update recipes ([9a3a0be](https://github.com/h-enk/getdoks.org/commit/9a3a0bef71758ebb930f898bc484d65d644c0eae))
-* update recipes section ([9980ca0](https://github.com/h-enk/getdoks.org/commit/9980ca09f983992c25a97f7cd0ba4686f3116a4f))
-* update recipes section ([2eb8485](https://github.com/h-enk/getdoks.org/commit/2eb84858d16263d3182b5b18ba48961c79bdc3b3))
-* update tutorial ([682fb66](https://github.com/h-enk/getdoks.org/commit/682fb661fd96956d51126715ac87bbc19d443f7e))
-* update tutorial ([9826f8f](https://github.com/h-enk/getdoks.org/commit/9826f8f63a731359dfa7ef41ef05cc6dddd84b52))
-* update tutorial ([5d30cbe](https://github.com/h-enk/getdoks.org/commit/5d30cbe4209b3206326bcb8eedd4b1107a10b180))
-* update tutorial ([5df6b4e](https://github.com/h-enk/getdoks.org/commit/5df6b4e57cc6a3136a886e3551a9723b8d2cd320))
+* update faq ([555fd17](https://github.com/h-enk/doks/commit/555fd17bb21d94764688f8f0c818d352183244b7))
+* update faq ([f751f3f](https://github.com/h-enk/doks/commit/f751f3ff02b736b36854e396b2536a9fef311c50))
+* update readme ([f32c60f](https://github.com/h-enk/doks/commit/f32c60f1ff6fe7f898efa7dc5ff97bd4b60148a6))
+* update requirement sections ([22a8bfb](https://github.com/h-enk/doks/commit/22a8bfbc87b20ae4d03b733b32f1e1f956e3671c))
+* update requirements sections ([3767e8b](https://github.com/h-enk/doks/commit/3767e8bfa0893d9bb827c35b5b2694c023e78ceb))
+* update requirements sections ([8e14777](https://github.com/h-enk/doks/commit/8e14777805500abbf7cbc840a4a19c7635ce5b96))
+* update requirements sections ([49f803e](https://github.com/h-enk/doks/commit/49f803e7e3d905d01ff00f5d02357defb885fe7e))
+* update requirements sections ([4791d5a](https://github.com/h-enk/doks/commit/4791d5a0ba464c57f74d3bd6736985830f0d9e71))
+* update requirements sections ([5321e8d](https://github.com/h-enk/doks/commit/5321e8d3c1094074c2503c3895579ebe32846176))
+* update requirements sections ([920776a](https://github.com/h-enk/doks/commit/920776a6d55167cd8ce40f2edfcc37f2841e3def))
+* update requirements sections ([3420ae9](https://github.com/h-enk/doks/commit/3420ae9c55dedd5424bf7f2f32a3cf1dacaf4e6f))
+* update showcase link ([3e00037](https://github.com/h-enk/doks/commit/3e00037d78b3e980bdbdf005a5c13d9a39d2fa3d))
 
-### [0.1.2](https://github.com/h-enk/getdoks.org/compare/v0.1.1...v0.1.2) (2020-11-17)
+
+### Dependencies
+
+* bump autoprefixer, bootstrap, stylelint, and netlify-lambda to latest versions ([955cb46](https://github.com/h-enk/doks/commit/955cb46a5d4936ce355c28a4a2a8b5c025a8ca1c))
+* bump deps to latest ([05de29a](https://github.com/h-enk/doks/commit/05de29ace1e735840aea04f90924c2c833b00b86))
+* bump postcss-purgecss to 4.0.0 + eslint to 7.18.0 ([44e90f2](https://github.com/h-enk/doks/commit/44e90f2bc944693967c6e3864673d8f21ee07648))
+* bump versions to latest ([857906c](https://github.com/h-enk/doks/commit/857906c69b2d9779abd158dd88c1057f84c8eb6f))
+* bump versions to latest ([5e52acb](https://github.com/h-enk/doks/commit/5e52acbc35db30267867e1b0981c8f4299bdf51d))
+* bump versions to latest ([3087ae0](https://github.com/h-enk/doks/commit/3087ae0f521a780d38ccbd0afbb07e23fa9fad7d))
+
+### [0.1.5](https://github.com/h-enk/doks/compare/v0.1.4...v0.1.5) (2021-01-12)
+
+
+### Features
+
+* add hugo extended as a dependency ([258224c](https://github.com/h-enk/doks/commit/258224c7880911c709f80e478cacf265fafbbb5c))
+* add hugothemes reqs ([b3afb4b](https://github.com/h-enk/doks/commit/b3afb4b4055f5cfe5a28d355ac26f577fc442392))
+* remove exampleSite ([70db6bc](https://github.com/h-enk/doks/commit/70db6bca005c2e2f82e3ac64d9150c4d87889758))
 
 
 ### Documentation
 
-* add section contribute ([a2e0a48](https://github.com/h-enk/getdoks.org/commit/a2e0a48288d247a2068b2a9a14699ad817bc39c8))
-* update content ([3b2e37f](https://github.com/h-enk/getdoks.org/commit/3b2e37feb2448a4e95f7335569cc150ef0f4f602))
-* update content ([84841c4](https://github.com/h-enk/getdoks.org/commit/84841c43e65bec3c2a8a5104d33fb803afff7d74))
-* update content ([da72234](https://github.com/h-enk/getdoks.org/commit/da72234f37ab0d5511bf2c357434c7e00ec46551))
-* update content ([0c15922](https://github.com/h-enk/getdoks.org/commit/0c159220936dbad41ade6aff533b69b2dd0a4465))
-* update content ([d041b19](https://github.com/h-enk/getdoks.org/commit/d041b19ab6e978d0701ef43193c2859d9f52f086))
-* update content ([b2a687c](https://github.com/h-enk/getdoks.org/commit/b2a687cadb0a055e6112c51a8bd77c6a498e2b70))
-* update help section ([829c830](https://github.com/h-enk/getdoks.org/commit/829c830703636cfb6ceca0ea41beec5d38e6977e))
-* update showcase ([d81c30f](https://github.com/h-enk/getdoks.org/commit/d81c30fca73b3d85f0bfde376228bd8fb9fb093d))
-* update showcase ([6c06f3e](https://github.com/h-enk/getdoks.org/commit/6c06f3e3df3a0f6d3223ab04c334dbff8ad433ab))
-* update showcase ([bf9cca3](https://github.com/h-enk/getdoks.org/commit/bf9cca367ac7916f3b6dd1ddfe61e9feaa563958))
+* update code of conduct ([411123b](https://github.com/h-enk/doks/commit/411123b207cfe0715c31455f9e5cbcfd9a2d93cc))
+* update frontpage ([f2f4937](https://github.com/h-enk/doks/commit/f2f49370a1ecd7d312de1b348e08e26d0a327121))
+* update homepage ([4e65d01](https://github.com/h-enk/doks/commit/4e65d012c5887ff8db9650006d8c6f2303d1b338))
+* update readme ([7283eb9](https://github.com/h-enk/doks/commit/7283eb997da055892d95015f1411b8528f9b2298))
+* update readme ([9dc2f0e](https://github.com/h-enk/doks/commit/9dc2f0ebfe75f968f77290d911e3be035b34e954))
+* update readme ([3ed1ad6](https://github.com/h-enk/doks/commit/3ed1ad6376959a678ceac990310dd51d2f2864f8))
+* update readme ([6a35faf](https://github.com/h-enk/doks/commit/6a35fafe485d82f4a327b8b4ed10a703eac4af1b))
+* update readme ([40dd5e4](https://github.com/h-enk/doks/commit/40dd5e4eea340f2fae24484bb86325f4410378ff))
+* update readme ([7b75c47](https://github.com/h-enk/doks/commit/7b75c47c9e0e5953b781ce4f784a3083361970fb))
+* update readme ([2d33818](https://github.com/h-enk/doks/commit/2d3381885ab6578ed44720e8f99033429034ba2a))
+* update readme ([632623f](https://github.com/h-enk/doks/commit/632623f29401f38e0a853508346a94267372dfa1))
+* update readme for docs discussions ([fb9e340](https://github.com/h-enk/doks/commit/fb9e340f6e48293ed2d32a73754ae081f41a0fc9))
+* update showcase link ([74724eb](https://github.com/h-enk/doks/commit/74724eb4c53d15475492b2b7c103b3056260fd28))
 
 
 ### Dependencies
 
-* add doks version file ([363495d](https://github.com/h-enk/getdoks.org/commit/363495d794a62b45aa5b6a9af4f618aebf76c6b8))
-* bump eslint ([ec22560](https://github.com/h-enk/getdoks.org/commit/ec2256077ade23171337a60795f4fd867194744e))
-* bump versions ([05dd2e8](https://github.com/h-enk/getdoks.org/commit/05dd2e81c1324902fd636601384a241738119c38))
-* bump versions ([6679089](https://github.com/h-enk/getdoks.org/commit/6679089b40283955ed90e10d088e0f068cc737a3))
-* lower patch version ([c577d56](https://github.com/h-enk/getdoks.org/commit/c577d56a567f8b850b4311416336872b4d590b4a))
+* bump to latest versions ([83f4163](https://github.com/h-enk/doks/commit/83f41636f71e547f4928597bdf67128fe954f83e))
+* bump to latest versions ([372d9cb](https://github.com/h-enk/doks/commit/372d9cb64d4d68b6e95b252112e27ff9123b456c))
+* bump versions to latest ([6184067](https://github.com/h-enk/doks/commit/6184067621a33cf0e53a4ae9fab269a91a11b730))
+* bump versions to latest ([940f30d](https://github.com/h-enk/doks/commit/940f30dcebfde1a4a8900118fdf84f57410ed63a))
+* bump versions to latest ([751d6c6](https://github.com/h-enk/doks/commit/751d6c68caa1811be92eaae378e16413f09eb12e))
+* bump versions to latest ([b66c0a6](https://github.com/h-enk/doks/commit/b66c0a6221cddbaf997c032222276185cc910d9d))
+* bump versions to latest ([1d7e3b8](https://github.com/h-enk/doks/commit/1d7e3b873b537e498ef4ef5ce5548b252a62c4bc))
+* bump versions to latest ([0aa2e0f](https://github.com/h-enk/doks/commit/0aa2e0f7e07e930ba507f8652e0d6375c562def7))
+* bump versions to latest ([ce5c733](https://github.com/h-enk/doks/commit/ce5c7336f95c3d6e6be4c7b3fb7db3812b7ac4ac))
+* bump versions to latest ([cc62487](https://github.com/h-enk/doks/commit/cc6248722a91f163359ce42e83f06e0ae5277ef7))
 
-### 0.1.1 (2020-11-06)
+### [0.1.4](https://github.com/h-enk/doks/compare/v0.1.3...v0.1.4) (2020-12-03)
+
+
+### Documentation
+
+* update content ([63ca41e](https://github.com/h-enk/doks/commit/63ca41e1076375eb99aad5ca6d77d95516b6f349))
 
 
 ### Dependencies
 
-* delete yarn.lock ([f2bde7b](https://github.com/h-enk/getdoks.org/commit/f2bde7b44b5873d587480231b69fdbce141306b7))
-* reinstall ([e5c307f](https://github.com/h-enk/getdoks.org/commit/e5c307f117d028f91991574aea7804caac434fab))
+* bump versions ([c254be6](https://github.com/h-enk/doks/commit/c254be61754071600665858d6a7d2e2fbc105af3))
+* bump versions to latest ([831442c](https://github.com/h-enk/doks/commit/831442c1a6f3372b2930681ca9c937d123b5f6a3))
+* bump versions to latest ([0377b0d](https://github.com/h-enk/doks/commit/0377b0de75a3cc8027bd255961f6d0c184d82575))
+* bump versions to latest ([358bad6](https://github.com/h-enk/doks/commit/358bad680156937886f2957b6c6fcdbcdd97782e))
+* bump versions to latest ([7ce56d0](https://github.com/h-enk/doks/commit/7ce56d0a362c5099c0a6c50f6ad0f1c7ba969218))
+
+### [0.1.3](https://github.com/h-enk/doks/compare/v0.1.2...v0.1.3) (2020-11-17)
+
+
+### Dependencies
+
+* add doks version file ([f8dcfbe](https://github.com/h-enk/doks/commit/f8dcfbeebfda5fef533b9b7bc2463fa0dfafd5fa))
+* update doks version file ([d326669](https://github.com/h-enk/doks/commit/d326669c1d170cd5a76df1faafea472f3132fdf5))
+
+### [0.1.2](https://github.com/h-enk/doks/compare/v0.1.1...v0.1.2) (2020-11-17)
+
+
+### Dependencies
+
+* bump versions ([6ce5813](https://github.com/h-enk/doks/commit/6ce5813543417f2328846a78b971201d7611781d))
+
+### [0.1.1](https://github.com/h-enk/doks/compare/v0.1.0...v0.1.1) (2020-11-10)
+
+
+### Documentation
+
+* update content ([c4c83eb](https://github.com/h-enk/doks/commit/c4c83eb9b68674553c6a7e988249a808d75250b4))
+* update reasons ([1cec423](https://github.com/h-enk/doks/commit/1cec4237b395ff306b765d47b29b8410c2884921))
+
+
+### Dependencies
+
+* bump eslint ([d794dab](https://github.com/h-enk/doks/commit/d794dabbe389b0f616ccfca564607f9be4670e0c))
+* reinstall ([6705f4b](https://github.com/h-enk/doks/commit/6705f4bbc4da4cd967e7165ab3681137014633bb))
+
+## 0.1.0 (2020-11-06)
+
+
+### Features
+
+* add flexsearch ([97d8e2c](https://github.com/h-enk/doks/commit/97d8e2c0e2568f9f9f653dcc243d06aa25482e70))
+* add standard-version ([6d83ec3](https://github.com/h-enk/doks/commit/6d83ec308e0a9c4db5aa8d2f2c8309ad09673605))
+* update static assets ([1b16e6b](https://github.com/h-enk/doks/commit/1b16e6bb3d87888b51eff2a8ce7d482cc1a5daf6))
+
+
+### Bug Fixes
+
+* update badges ([90cea78](https://github.com/h-enk/doks/commit/90cea786c1aec4cc7004fdf9571ad05a739aa96c))
+* update file path ([73004c3](https://github.com/h-enk/doks/commit/73004c3f8eaee87957ab53bb1f27716acde7a361))
+
+
+### Documentation
+
+* update ci badge ([7c4373a](https://github.com/h-enk/doks/commit/7c4373a3a9a29f35f858f27ad4b67ad0379a3da0))
+* update content ([c6ea4f3](https://github.com/h-enk/doks/commit/c6ea4f3ae54e1c7b890dffb2243c0a81eb96b295))
+* update content ([c8c403d](https://github.com/h-enk/doks/commit/c8c403dbf9963eeef3c7dca7f6334929bbc5383b))
+* update gist id ([81d7b1a](https://github.com/h-enk/doks/commit/81d7b1a5df91f238378723018a84d0dd4cd12dd5))
+* update README ([a1d2e80](https://github.com/h-enk/doks/commit/a1d2e8091a0a2051fdbb3384ad797d8cd5251ce6))
+* update README ([a9aa6ab](https://github.com/h-enk/doks/commit/a9aa6ab1af1ef5c8619dd3d7c64d96d5a21d956c))
+* update README ([d0bcf8d](https://github.com/h-enk/doks/commit/d0bcf8d69dfd2d28d9f603945efc37a64b8b529b))
+* update README ([f6dcccc](https://github.com/h-enk/doks/commit/f6dcccc458a1a4c5cac655976a665fb66b1f7b7a))
+* update README ([eb4e714](https://github.com/h-enk/doks/commit/eb4e714f4f1fd97117a9fc155df6b6e4be55c0ed))
+
+
+### Dependencies
+
+* bump postcss ([12411c3](https://github.com/h-enk/doks/commit/12411c38a98fb362ff348e5c151fcb7813e8691e))
+* bump postcss-cli ([88b49b5](https://github.com/h-enk/doks/commit/88b49b552849ab807f17ff9bfacfc847d9c2dbd2))
+* bump versions ([53cf8ba](https://github.com/h-enk/doks/commit/53cf8ba6e260687c4fc5eea0774a7d0e6aa559f8))
+* update for dependabot PR's ([bad7deb](https://github.com/h-enk/doks/commit/bad7debffa8d8e6b442edf6e51f07f915fdfdd83))

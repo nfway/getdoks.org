@@ -17,12 +17,3 @@
   @extend .btn;
   @extend .btn-secondary;
 }
-
-.email-form {
-  margin-bottom: 1rem;
-}
-
-.email-form .form-control {
-  background: $gray-100;
-  border-color: transparent;
-}
